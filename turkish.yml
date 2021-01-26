@@ -1,7 +1,7 @@
 name: TownyCultures
 version: 0.01
-language: english
-author: Goosius
+language: turkish
+author: Goosiusi, Kovalski
 website: 'http://townyadvanced.github.io/'
 description: >
     Language file for all game messages.  Do not alter this file.
