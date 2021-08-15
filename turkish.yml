@@ -1,7 +1,7 @@
 name: TownyCultures
-version: 0.01
-language: turkish
-author: Goosiusi, Kovalski
+version: 0.02
+language: english
+author: Goosius
 website: 'http://townyadvanced.github.io/'
 description: >
     Language file for all game messages.  Do not alter this file.
@@ -33,6 +33,8 @@ status_town_culture: '&2Kültür: &a%s'
 #culture setting
 msg_err_invalid_string_town_culture_not_set: '&cGeçersiz dize, Kasaba kültürü ayarlanamadı.'
 msg_town_culture_set: '&bKasaba kültürü %s olarak ayarlandı.'
+msg_culture_removed: '&bKasaba kültürü kaldırıldı.'
+msg_culture_removed_all_towns: '&bBütün kasabaların kasaba kültürü kaldırıldı.'
 
 #chat
 culture_chat_message: '&f[&5CC&f] &f[&6%s&f] %s: &d%s'
